@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [The goal](README.md)
 * [Why E2DP](why-e2dp.md)
 
