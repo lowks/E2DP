@@ -12,3 +12,10 @@ What is important is not positivity on the situation or a steel will or even pow
 
 Transparency and a commitment to the change are the prerequisites to the change.
 
+One thing that I learned while trying to create a DevOps culture was that process changes needed to be prototyped and tested too for the two following reasons: 
+
+* People listen very little during presentations.
+* They take away even less than that.
+
+That's why too a prototype to see the process in action actualizing the new process into the world so that people who are going to be using it is essential and a very important part of instituituonalizng a process change in a corporate company. The more people involved in the process change, the elaborate the prototype.
+
