@@ -19,3 +19,7 @@ One thing that I learned while trying to create a DevOps culture was that proces
 
 That's why too a prototype to see the process in action actualizing the new process into the world so that people who are going to be using it is essential and a very important part of instituituonalizng a process change in a corporate company. The more people involved in the process change, the elaborate the prototype.
 
+**Benefits of DevOps ?**
+
+The benefits of Devops or anything form of automation that really matters are those benefits discerned via goals that are aligned with the business. Ask yourself this question: _Would you go and ask your mechanic what is the benefits of repairing your car in time ?_
+
