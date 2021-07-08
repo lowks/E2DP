@@ -10,5 +10,7 @@ When something is as important as DevOps and organisational agility, the goal ge
 
 A _**Just cause**_ has got to go beyond your line manager, your immediate bosses whim and fancies or current interest or obsessions. It's bigger than your current company and bigger than the current scope of what you are able to do. 
 
+Agile coaching makes the changes brought by mindset changes and technical new practices enduring. Coaching is about listening not about talking. 
+
 
 
