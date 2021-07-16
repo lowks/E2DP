@@ -23,3 +23,7 @@ That's why too a prototype to see the process in action actualizing the new proc
 
 The benefits of Devops or anything form of automation that really matters are those benefits discerned via goals that are aligned with the business. Ask yourself this question: _Would you go and ask your mechanic what is the benefits of repairing your car in time ?_
 
+**Learning**
+
+There is no other way to learn and internalize and to grow than to make mistakes. Beyond about just talking about making mistakes and learning from them, are we really okay with making mistakes, can we sit by mistakes or failures and look at them for what they really are ? Precursors to success. You have to fail to succeed. Internalizing this fact will make you fearless in trying out and verifying your thoughts and plans.
+
